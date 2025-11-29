@@ -46,7 +46,7 @@ https://udlaec-my.sharepoint.com/:v:/g/personal/alejandro_moreira_udla_edu_ec/IQ
 ---
 
 ## itch.io / Build
- *Versión jugable*  
+(https://alejandrom11.itch.io/pathfinding)
 
 ---
 
