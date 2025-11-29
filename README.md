@@ -1,4 +1,4 @@
-# 🧭 Pathfinding con NavMesh – Patrulla y Persecución
+# Pathfinding con NavMesh – Patrulla y Persecución
 
 Proyecto en Unity que implementa IA básica utilizando **NavMesh**, incluyendo:
 
@@ -9,7 +9,7 @@ Proyecto en Unity que implementa IA básica utilizando **NavMesh**, incluyendo:
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 Crear un prototipo funcional que demuestre:
 - Conceptos básicos de pathfinding
 - Uso del sistema de navegación de Unity
@@ -17,14 +17,14 @@ Crear un prototipo funcional que demuestre:
 
 ---
 
-## 🛠️ Tecnologías
+## Tecnologías
 - Unity 2022.x (3D)
 - NavMesh Components (AI Navigation)
 - C#
 
 ---
 
-## 📌 Configuración del NavMesh
+## Configuración del NavMesh
 1. Seleccionar el piso  
 2. Añadir **NavMesh Surface**  
 3. Marcar como *Navigation Static*  
@@ -32,25 +32,25 @@ Crear un prototipo funcional que demuestre:
 
 ---
 
-## 🤖 IA del Enemigo
+## IA del Enemigo
 - **NavMeshAgent** para moverse por el NavMesh  
 - Patrulla entre waypoints  
 - Cambio a persecución cuando el jugador entra en rango  
 
 ---
 
-## 🎥 Video
-📺 *Explicación del proyecto y demostración*  
+## Video
+ *Explicación del proyecto y demostración*  
 https://udlaec-my.sharepoint.com/:v:/g/personal/alejandro_moreira_udla_edu_ec/IQDupbG0M2clQ5e7ZmQTELvMAXLPndsXaWSU9zKHlS2viJk?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=OcAylU 
 
 ---
 
-## 📦 itch.io / Build
-🎮 *Versión jugable*  
+## itch.io / Build
+ *Versión jugable*  
 
 ---
 
-## 📂 Cómo abrir el proyecto
+## Cómo abrir el proyecto
 1. Clonar el repositorio  
 2. Abrir Unity Hub  
 3. Cargar la carpeta del proyecto  
@@ -60,4 +60,3 @@ https://udlaec-my.sharepoint.com/:v:/g/personal/alejandro_moreira_udla_edu_ec/IQ
 
 
 ---
-
